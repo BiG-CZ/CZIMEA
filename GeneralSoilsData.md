@@ -40,11 +40,12 @@ A general warning / caution about many soil data compilations: **soil profile lo
 - [Recent/initial paper (2016-10), WoSIS: Serving standardised soil profile data for the world](http://www.earth-syst-sci-data-discuss.net/essd-2016-34/), doi:10.5194/essd-2016-34, Manuscript under review for journal Earth Syst. Sci. Data
 - Has [working GeoServer instance](http://wfs.isric.org/geoserver/), with OGC (WMS, WFS, etc) access to all the data! I've already tested it successfully with QGIS.
 
-### [SoilsGrids1km](https://www.soilgrids.org)
+### [SoilGrids1km](https://www.soilgrids.org) and soon SoilGrids250m
 - This looks like a fantastic resource
 - Hengl T, de Jesus JM, MacMillan RA, Batjes NH, Heuvelink GBM, Ribeiro E, et al. (2014) SoilGrids1km — Global Soil Information Based on Automated Mapping. PLoS ONE 9(8): e105992. [doi:10.1371/journal.pone.0105992](http://dx.doi.org/10.1371/journal.pone.0105992)
 - All data are [downloadable as geotiffs](ftp://soilgrids:soilgrids@ftp.soilgrids.org/data/recent/). Also available via [GeoServer application](http://webservices.isric.org/geoserver), and "For accessing SoilGrids at point locations please refer to http://rest.soilgrids.org documentation"
 - Very nice interactive map application
+- There's even a [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) now! A paper has been accepted for publication in PLOS One.
 
 ### [GSIF: Global Soil Information Facilities](http://gsif.isric.org)
 - Not a dataset, but a set of software tools in R, plus the collaborators involved. IT's described as the "ISRIC Cyberinfrastructure" for global soils work. See the GSIF section in the SoilsGrids1km paper
