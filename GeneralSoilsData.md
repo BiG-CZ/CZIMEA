@@ -47,6 +47,6 @@ Sanchez, P. A., Thompson, J. A., Zhang, G.-L., and Donald, L. S., 2014, GlobalSo
 Grid of Soil Properties, Advances in Agronomy, Volume 125, 93-134, [doi:10.1016/B978-0-12-800137-0.00003-0](http://dx.doi.org/10.1016/B978-0-12-800137-0.00003-0)
 
 ### Terrestrial Radiocarbon Database
-- Only reference and information I have is this: Trumbore, S., M. Torn, Smith L. 2011. Constructing a Database of Terrestrial Radiocarbon Measurements. Terrestrial Radiocarbon Database Workshop, Berkeley, California, 20–22 July 2011. Eos 92(43):376, 25 October 2011, [doi:10.1029/2011EO430006](http://dx.doi.org/10.1029/2011EO430006)
+- Only reference and information I have is this: Trumbore, S., M. Torn, L. Smith. 2011. Constructing a Database of Terrestrial Radiocarbon Measurements. Terrestrial Radiocarbon Database Workshop, Berkeley, California, 20–22 July 2011. Eos 92(43):376, 25 October 2011, [doi:10.1029/2011EO430006](http://dx.doi.org/10.1029/2011EO430006)
 - Probably linked to the ICSN project? Has some of the same people and groups.
 - Don't know its current status. Margaret Torn was listed as the contact person in Eos article
