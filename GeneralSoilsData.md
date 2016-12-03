@@ -2,6 +2,8 @@
 
 These notes may be more appropriate in some other BiGCZ repository rather than CZIMEA, but this is a good place to start.
 
+A general warning / caution about many soil data compilations: **soil profile location (lat-lon) are not always highly accurate, or even present at all.** eg, in a review of the WoSIS paper, it was stated that "In the current version of WoSIS, about 20% of the soil profiles do not have a quantitative georeference, i.e. numeric geographic coordinates". The ISCN documentation makes similar warnings, while highlighting the value of data that has many consistent parameters at one profile/horizon even though it doesn't have good (or any) lat-lon locations.
+
 ## Data for the US
 
 ### CZOData
