@@ -13,8 +13,10 @@ These notes may be more appropriate in some other BiGCZ repository rather than C
 ### LTER
 
 ### SSURGO, G-SURGO (?)
+- See ModelMyWatershed efforts
 
 ### others, specially for soil properties
+- eg, this older reference: *Kern, J. 1995, Geographic patterns of soil water-holding capacity in the contiguous United States. Soil Science Society of America Journal 59, 1126-1133*. Can then look up recent studies that cite it in building newer, better, broader US datasets
 
 
 ## Global data
@@ -34,8 +36,7 @@ These notes may be more appropriate in some other BiGCZ repository rather than C
 - [Batjes, N.H. 2016. Harmonized soil property values for broad-scale modelling (WISE30sec) with estimates of global soil carbon stocks. Geoderma 269:61-68, doi:10.1016/j.geoderma.2016.01.034](http://dx.doi.org/10.1016/j.geoderma.2016.01.034). PDF available [here](https://www.researchgate.net/publication/292605384_Harmonized_soil_property_values_for_broad-scale_modelling_WISE30sec_with_estimates_of_global_soil_carbon_stocks).
 
 ### [GlobalSoilMap](http://www.globalsoilmap.net/)
-- Quite ambitious
-- Web site looks highly dated and stale, hence suspicious ...
+- Quite ambitious. *But,* web site looks highly dated and stale, hence I'm suspicious about its current status ...
 - Publications:
   - See their [Publications page](http://www.globalsoilmap.net/biblio) (through 2014, and even that is incomplete)
   - Published a book: [Arrouays et al, 2014, GlobalSoilMap: Basis of the global spatial soil information system](http://www.globalsoilmap.net/content/globalsoilmap-basis-global-spatial-soil-information-system)
