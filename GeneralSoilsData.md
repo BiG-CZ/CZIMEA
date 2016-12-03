@@ -14,8 +14,14 @@ A general warning / caution about many soil data compilations: **soil profile lo
 
 ### LTER
 
-### SSURGO, G-SURGO (?)
+### SSURGO, G-SURGO (?), and other federal agency datasets
 - See ModelMyWatershed efforts
+- [USA National Cooperative Soil Survey Soil Characterization database](http://ncsslabdatamart.sc.egov.usda.gov/)
+- [USA National Soil Information System](http://soils.usda.gov/technical/nasis/)
+
+### Dylan Beaudette (USDA-NRCS)
+- Anything Dylan is doing! https://twitter.com/DylanBeaudette, https://github.com/dylanbeaudette, https://casoilresource.lawr.ucdavis.edu/people/dylan-e-beaudette/
+- He even studies the "Sierra Foothill Region of California" and lives in that area, so may be of direct interest to Emma and the Southern Sierra CZO
 
 ### others, specially for soil properties
 - eg, this older reference: *Kern, J. 1995, Geographic patterns of soil water-holding capacity in the contiguous United States. Soil Science Society of America Journal 59, 1126-1133*. Can then look up recent studies that cite it in building newer, better, broader US datasets
@@ -34,8 +40,20 @@ A general warning / caution about many soil data compilations: **soil profile lo
 - [Recent/initial paper (2016-10), WoSIS: Serving standardised soil profile data for the world](http://www.earth-syst-sci-data-discuss.net/essd-2016-34/), doi:10.5194/essd-2016-34, Manuscript under review for journal Earth Syst. Sci. Data
 - Has [working GeoServer instance](http://wfs.isric.org/geoserver/), with OGC (WMS, WFS, etc) access to all the data! I've already tested it successfully with QGIS.
 
+### [SoilsGrids1km](https://www.soilgrids.org)
+- This looks like a fantastic resource
+- Hengl T, de Jesus JM, MacMillan RA, Batjes NH, Heuvelink GBM, Ribeiro E, et al. (2014) SoilGrids1km — Global Soil Information Based on Automated Mapping. PLoS ONE 9(8): e105992. [doi:10.1371/journal.pone.0105992](http://dx.doi.org/10.1371/journal.pone.0105992)
+- All data are [downloadable as geotiffs](ftp://soilgrids:soilgrids@ftp.soilgrids.org/data/recent/). Also available via [GeoServer application](http://webservices.isric.org/geoserver), and "For accessing SoilGrids at point locations please refer to http://rest.soilgrids.org documentation"
+- Very nice interactive map application
+
+### [GSIF: Global Soil Information Facilities](http://gsif.isric.org)
+- Not a dataset, but a set of software tools in R, plus the collaborators involved. IT's described as the "ISRIC Cyberinfrastructure" for global soils work. See the GSIF section in the SoilsGrids1km paper
+- Looks like it's mainly the group that's developing WoSIS and SoilsGrids1km, but also have links to [Dylan Beaudette (USDA-NRCS)](https://twitter.com/DylanBeaudette)?!
+- Are running a ["Spring school: 15 – 19 May 2017."](http://www.isric.org/training/hands-global-soil-information-facilities-2017) Looks great!
+
 ### [WISE30sec](http://www.isric.org/data/isric-wise-derived-soil-property-estimates-30-30-arcsec-global-grid-wise30sec)
 - Batjes, N.H. 2016. Harmonized soil property values for broad-scale modelling (WISE30sec) with estimates of global soil carbon stocks. Geoderma 269:61-68, [doi:10.1016/j.geoderma.2016.01.034](http://dx.doi.org/10.1016/j.geoderma.2016.01.034). PDF available [here](https://www.researchgate.net/publication/292605384_Harmonized_soil_property_values_for_broad-scale_modelling_WISE30sec_with_estimates_of_global_soil_carbon_stocks).
+- How is this related to *SoilsGrids1km* (above)? Both are from ISRIC, same group.
 
 ### [GlobalSoilMap](http://www.globalsoilmap.net/)
 - Quite ambitious. *But,* web site looks highly dated and stale, hence I'm suspicious about its current status ...
