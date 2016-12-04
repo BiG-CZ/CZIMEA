@@ -15,7 +15,7 @@ A general warning / caution about many soil data compilations: **soil profile lo
 ### LTER
 
 ### SSURGO, G-SURGO (?), and other federal agency datasets
-- See ModelMyWatershed efforts
+- See ModelMyWatershed efforts. Anthony can fill in details on this.
 - [USA National Cooperative Soil Survey Soil Characterization database](http://ncsslabdatamart.sc.egov.usda.gov/)
 - [USA National Soil Information System](http://soils.usda.gov/technical/nasis/)
 
