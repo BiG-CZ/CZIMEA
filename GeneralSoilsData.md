@@ -29,7 +29,7 @@ A general warning / caution about many soil data compilations: **soil profile lo
 
 ## Global data
 
-### [ISCN: International Soil Carbon Network, ICSN](http://iscn.fluxdata.org)
+### [ISCN: International Soil Carbon Network](http://iscn.fluxdata.org)
 - In coordination with BiGCZ goals, it'd be good to try to ingest/map some data from ICSN into ODM2. That'd benefit both CZIMEA and BiGCZ in multiple ways.
 - Jennifer (Jen) Harden <82soiljen@gmail.com> is the new lead; Deb Agarwal <DAAgarwal@lbl.gov> is or was a technical data lead. Margaret Torn (no longer the lead) also mentioned Chris Swanston <cswanston@fs.fed.us> as being involved
 - "Now in its 3rd generation (12/2015), the ISCN database includes data for over 430,000 individual soil layers from over 71,000 profiles worldwide."
