@@ -11,5 +11,6 @@ An EarthCube Integrative Activities project: "Advancing Biogeoscience Community 
 - [ODM2 web site](http://www.odm2.org), [ODM2 Core schema diagram](http://odm2.github.io/ODM2/schemas/ODM2_Current/diagrams/ODM2Core.html) and [ODM2 Controlled Vocabularies](http://vocabulary.odm2.org)
 - [ODM2 Admin](https://github.com/miguelcleon/ODM2-Admin) and CZIMEA
   - [CZIMEA ODM2 Admin instance](http://odm2admin.cuahsi.org/CZIMEA/CZIMEA) hosted on the CUAHSI Water Data Center cloud. Very early and experimental implementation. Read-only access available upon request. Development version is [here](http://odm2admin.cuahsi.org/CZIMEA/CZIMEA).
+  - [ODM2-Admin issue discussing data loading options](https://github.com/miguelcleon/ODM2-Admin/issues/16)
   - [odm2api jupyter notebooks](https://github.com/miguelcleon/ODM2API-ipython-notebooks) demoing remote `odm2api` interactions with ODM2 PostgreSQL databases behind ODM2-Admin instances.
 - [Some initial notes on broader soils data sets](GeneralSoilsData.md)
