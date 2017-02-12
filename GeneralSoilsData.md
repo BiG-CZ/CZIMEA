@@ -37,7 +37,7 @@ A general warning / caution about many soil data compilations: **soil profile lo
 - **ASAP:** Suggest to Anthony and Emma if they can and would like to attend this [pre-AGU ICSN meeting, Sun 12/11](http://iscn.fluxdata.org/2016/10/20/agenda-posted-pre-agu-iscn-hands-meeting/)
 
 ### [WoSIS: World Soil Information Service](http://www.isric.org/data/wosis)
-- [Recent/initial paper (2016-10), WoSIS: Serving standardised soil profile data for the world](http://www.earth-syst-sci-data-discuss.net/essd-2016-34/), doi:10.5194/essd-2016-34, Manuscript under review for journal Earth Syst. Sci. Data
+- [Recent paper (2017-1), WoSIS: providing standardised soil profile data for the world](http://www.earth-syst-sci-data.net/9/1/2017/), Earth Syst. Sci. Data, doi:/essd-9-1-2017
 - Has [working GeoServer instance](http://wfs.isric.org/geoserver/), with OGC (WMS, WFS, etc) access to all the data! I've already tested it successfully with QGIS.
 
 ### [SoilGrids1km](https://www.soilgrids.org) and soon SoilGrids250m
