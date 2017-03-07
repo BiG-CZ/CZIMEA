@@ -1,1 +1,2 @@
 - [Sample Processing Workflow diagram](https://drive.google.com/open?id=0B9NLnOiN5c1RUXIzbGNYVTNWMG8). From Keshav, 2017-1-31
+- [CZIMEA_Metadata_Loading.ipynb:](CZIMEA_Metadata_Loading.ipynb) Jupyter notebook that loads sampling metadata into CZIMEA ODM2 database, using `odm2api`. Uses `czimea_dataload.py` module
