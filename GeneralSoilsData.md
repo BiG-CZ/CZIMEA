@@ -34,23 +34,26 @@ A general warning / caution about many soil data compilations: **soil profile lo
 - Jennifer (Jen) Harden <82soiljen@gmail.com> is the new lead; Deb Agarwal <DAAgarwal@lbl.gov> is or was a technical data lead. Margaret Torn (no longer the lead) also mentioned Chris Swanston <cswanston@fs.fed.us> as being involved
 - "Now in its 3rd generation (12/2015), the ISCN database includes data for over 430,000 individual soil layers from over 71,000 profiles worldwide."
 - Somewhat related FLUXNET Data Management paper from Deb (who co-led the development of the FLUXNET database): Agarwal, D. A., Humphrey, M., Beekwilder, N. F., Jackson, K. R., Goode, M. M. and van Ingen, C. (2010), A data-centered collaboration portal to support global carbon-flux analysis. Concurrency Computat.: Pract. Exper., 22(17): 2323–2334. [doi:10.1002/cpe.1600](http://dx.doi.org/10.1002/cpe.1600)
-- **ASAP:** Suggest to Anthony and Emma if they can and would like to attend this [pre-AGU ICSN meeting, Sun 12/11](http://iscn.fluxdata.org/2016/10/20/agenda-posted-pre-agu-iscn-hands-meeting/)
+- [ICSN meeting that happened just before AGU 2016](http://iscn.fluxdata.org/2016/10/20/agenda-posted-pre-agu-iscn-hands-meeting/)
 
-### [WoSIS: World Soil Information Service](http://www.isric.org/data/wosis)
+### [WoSIS: World Soil Information Service](http://www.isric.org/explore/wosis)
 - [Recent paper (2017-1), WoSIS: providing standardised soil profile data for the world](http://www.earth-syst-sci-data.net/9/1/2017/), Earth Syst. Sci. Data, doi:/essd-9-1-2017
 - Has [working GeoServer instance](http://wfs.isric.org/geoserver/), with OGC (WMS, WFS, etc) access to all the data! I've already tested it successfully with QGIS.
 
-### [SoilGrids1km](https://www.soilgrids.org) and soon SoilGrids250m
+### [SoilGrids](http://www.isric.org/explore/soilgrids)
 - This looks like a fantastic resource
-- Hengl T, de Jesus JM, MacMillan RA, Batjes NH, Heuvelink GBM, Ribeiro E, et al. (2014) SoilGrids1km — Global Soil Information Based on Automated Mapping. PLoS ONE 9(8): e105992. [doi:10.1371/journal.pone.0105992](http://dx.doi.org/10.1371/journal.pone.0105992)
+- **SoilGrids1km** and now (Feb. 2017) **SoilGrids250m**
+  - **SoilGrids250m:**
+    - https://github.com/ISRICWorldSoil/SoilGrids250m
+    - Hengl T, Mendes de Jesus J, Heuvelink GBM, Ruiperez Gonzalez M, Kilibarda M, Blagotić A, et al. (2017) SoilGrids250m: Global gridded soil information based on machine learning. PLoS ONE 12(2): e0169748. [doi:10.1371/journal.pone.0169748](http://dx.doi.org/10.1371/journal.pone.0169748)
+  - **SoilGrids1km:** Hengl T, de Jesus JM, MacMillan RA, Batjes NH, Heuvelink GBM, Ribeiro E, et al. (2014) SoilGrids1km — Global Soil Information Based on Automated Mapping. PLoS ONE 9(8): e105992. [doi:10.1371/journal.pone.0105992](http://dx.doi.org/10.1371/journal.pone.0105992)
 - All data are [downloadable as geotiffs](ftp://soilgrids:soilgrids@ftp.soilgrids.org/data/recent/). Also available via [GeoServer application](http://webservices.isric.org/geoserver), and "For accessing SoilGrids at point locations please refer to http://rest.soilgrids.org documentation"
-- Very nice interactive map application
-- There's even a [SoilGrids250m](https://github.com/ISRICWorldSoil/SoilGrids250m) now! A paper has been accepted for publication in PLOS One.
+- Very nice [interactive map application](https://www.soilgrids.org)
 
 ### [GSIF: Global Soil Information Facilities](http://gsif.isric.org)
-- Not a dataset, but a set of software tools in R, plus the collaborators involved. IT's described as the "ISRIC Cyberinfrastructure" for global soils work. See the GSIF section in the SoilsGrids1km paper
+- Not a dataset, but a set of software tools in R, plus the collaborators involved. It's described as the "ISRIC Cyberinfrastructure" for global soils work. See the GSIF section in the SoilsGrids1km paper
 - Looks like it's mainly the group that's developing WoSIS and SoilsGrids1km, but also have links to [Dylan Beaudette (USDA-NRCS)](https://twitter.com/DylanBeaudette)?!
-- Are running a ["Spring school: 15 – 19 May 2017."](http://www.isric.org/training/hands-global-soil-information-facilities-2017) Looks great!
+- Are running a ["Spring school: 15 – 19 May 2017."](http://www.isric.org/utilise/capacity-building/springschool/gsif) Looks great!
 
 ### [WISE30sec](http://www.isric.org/data/isric-wise-derived-soil-property-estimates-30-30-arcsec-global-grid-wise30sec)
 - Batjes, N.H. 2016. Harmonized soil property values for broad-scale modelling (WISE30sec) with estimates of global soil carbon stocks. Geoderma 269:61-68, [doi:10.1016/j.geoderma.2016.01.034](http://dx.doi.org/10.1016/j.geoderma.2016.01.034). PDF available [here](https://www.researchgate.net/publication/292605384_Harmonized_soil_property_values_for_broad-scale_modelling_WISE30sec_with_estimates_of_global_soil_carbon_stocks).
