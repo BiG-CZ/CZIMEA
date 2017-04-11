@@ -16,5 +16,7 @@ An EarthCube Integrative Activities project: "Advancing Biogeoscience Community 
 ## Other, directly relevant resources
 - [ODM2 web site](http://www.odm2.org), [ODM2 Core schema diagram](http://odm2.github.io/ODM2/schemas/ODM2_Current/diagrams/ODM2Core.html) and [ODM2 Controlled Vocabularies](http://vocabulary.odm2.org)
 - [ODM2 Admin](https://github.com/miguelcleon/ODM2-Admin)
+- [System for Earth Sample Registration (SESAR).](http://www.geosamples.org/) IGSN registration and management.
 - [Notes from Emilio on broader soils data sets](GeneralSoilsData.md)
 - Genomic Standards Consortium [(GSC) MiXS](http://gensc.org/mixs/), including information on the "environmental packages"
+- [Linking Environmental Data and Samples Symposium, 29 May - 2 June 2017, Canberra, Australia](https://csiro-enviro-informatics.github.io/environmental-data-symposium-2017/)
