@@ -8,7 +8,7 @@ An EarthCube Integrative Activities project: "Advancing Biogeoscience Community 
 - Also strongly linked to a [NEON NSF Award (#1550920) led by the same team: EAGER-NEON: Collaborative Research: Formation of a NEON Microbial Metagenomics Data Synthesis Working Group](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550920)
 
 ## Project resources
-- [CZIMEA ODM2 Admin instance](http://odm2admin.cuahsi.org/CZIMEA/) hosted on the CUAHSI Water Data Center cloud. Very early and experimental implementation. Read-only access available upon request. Development version is [here](http://dev-odm2admin.cuahsi.org/CZIMEA/).
+- [CZIMEA ODM2 Admin instance (development version)](http://dev-odm2admin.cuahsi.org/CZIMEA/) hosted on the CUAHSI Water Data Center cloud. This is a prototype that is being enhanced and populated with more (meta)data fairly regularly. Read-only access available upon request. A "production" versions [exists](http://odm2admin.cuahsi.org/CZIMEA/) BUT it's not being actively maintained yet, until development is more mature.
 - [Initial cross-CZO soils sampling metadata loading into ODM2 (processing workflow diagram, and initial data-loading code).](dataloading)
 - [ODM2-Admin issue discussing data loading options](https://github.com/miguelcleon/ODM2-Admin/issues/16)
 - [odm2api jupyter notebooks](https://github.com/miguelcleon/ODM2API-ipython-notebooks) demoing remote `odm2api` interactions with ODM2 PostgreSQL databases behind ODM2-Admin instances.
