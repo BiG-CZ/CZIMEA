@@ -1,5 +1,8 @@
 # CZIMEA: Critical Zone Integrative Microbial Ecology Activity. 
 
+<img src="https://www.earthcube.org/sites/default/files/doc-repository/logo_earthcube_no-subhead_horizontal.png" width=200 height=auto>
+
+
 An [EarthCube](https://www.earthcube.org) Integrative Activities project: "Advancing Biogeoscience Community Standards and Cyberinfrastructure via Critical Zone Domain Engagement in Synthesis Science". This project is a close [BiG-CZ](http://bigcz.org) partner.
 
 ## Background
