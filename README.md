@@ -11,6 +11,7 @@ An [EarthCube](https://www.earthcube.org) Integrative Activities project: "Advan
 - Also strongly linked to a [NEON NSF Award (#1550920) led by the same team: EAGER-NEON: Collaborative Research: Formation of a NEON Microbial Metagenomics Data Synthesis Working Group](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550920)
 
 ## Project resources
+- [Cross-CZO sample processing workflow diagram (pdf)](https://drive.google.com/open?id=0B9NLnOiN5c1RUXIzbGNYVTNWMG8)
 - [CZIMEA ODM2 Admin instance (development version)](http://dev-odm2admin.cuahsi.org/CZIMEA/) hosted on the CUAHSI Water Data Center cloud. This is a prototype that is being enhanced and populated with more (meta)data fairly regularly. Read-only access available upon request. A "production" versions [exists](http://odm2admin.cuahsi.org/CZIMEA/) BUT it's not being actively maintained yet, until development is more mature.
 - [Initial cross-CZO soils sampling metadata loading into ODM2 (processing workflow diagram, and initial data-loading code).](dataloading)
 - [ODM2-Admin issue discussing data loading options](https://github.com/miguelcleon/ODM2-Admin/issues/16)
