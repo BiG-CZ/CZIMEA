@@ -11,15 +11,16 @@ An [EarthCube](https://www.earthcube.org) Integrative Activities project: "Advan
 - Also strongly linked to a [NEON NSF Award (#1550920) led by the same team: EAGER-NEON: Collaborative Research: Formation of a NEON Microbial Metagenomics Data Synthesis Working Group](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550920)
 
 ## Project resources
+- [Mayorga et al, Cross-Site Soil and Microbial Ecology Cyberinfrastructure for the CZIMEA Project (pdf).](https://drive.google.com/open?id=0B7vBlSZGFJKHZWlHQzV2YVB0MU0) Poster presented at the [EarthCube All-Hands meeting in Seattle, June 2017.](https://www.earthcube.org/2017-all-hands-meeting)
 - [Cross-CZO sample processing workflow diagram (pdf)](https://drive.google.com/open?id=0B9NLnOiN5c1RUXIzbGNYVTNWMG8)
 - [CZIMEA ODM2 Admin instance (development version)](http://dev-odm2admin.cuahsi.org/CZIMEA/) hosted on the CUAHSI Water Data Center cloud. This is a prototype that is being enhanced and populated with more (meta)data fairly regularly. Read-only access available upon request. A "production" versions [exists](http://odm2admin.cuahsi.org/CZIMEA/) BUT it's not being actively maintained yet, until development is more mature.
 - [Initial cross-CZO soils sampling metadata loading into ODM2 (processing workflow diagram, and initial data-loading code).](dataloading)
-- [ODM2-Admin issue discussing data loading options](https://github.com/miguelcleon/ODM2-Admin/issues/16)
-- [odm2api jupyter notebooks](https://github.com/miguelcleon/ODM2API-ipython-notebooks) demoing remote `odm2api` interactions with ODM2 PostgreSQL databases behind ODM2-Admin instances.
+- [ODM2-Admin issue discussing data loading options](https://github.com/ODM2/ODM2-Admin/issues/16)
+- [odm2api jupyter notebooks](https://github.com/ODM2/ODM2API-ipython-notebooks) demoing remote `odm2api` interactions with ODM2 PostgreSQL databases behind ODM2-Admin instances.
 
 ## Other, directly relevant resources
 - [ODM2 web site](http://www.odm2.org), [ODM2 Core schema diagram](http://odm2.github.io/ODM2/schemas/ODM2_Current/diagrams/ODM2Core.html) and [ODM2 Controlled Vocabularies](http://vocabulary.odm2.org)
-- [ODM2 Admin](https://github.com/miguelcleon/ODM2-Admin)
+- [ODM2 Admin](https://github.com/ODM2/ODM2-Admin)
 - [System for Earth Sample Registration (SESAR).](http://www.geosamples.org/) IGSN registration and management.
 - [BiG-CZ project](https://bigcz.org) (Software System for Integration and Analysis of **Bi**o- and **G**eoscience Data in the **C**ritical **Z**one) 
 - [Notes from Emilio on broader soils data sets](GeneralSoilsData.md)
