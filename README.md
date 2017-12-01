@@ -26,3 +26,4 @@ An [EarthCube](https://www.earthcube.org) Integrative Activities project: "Advan
 - [Notes from Emilio on broader soils data sets](GeneralSoilsData.md)
 - Genomic Standards Consortium [(GSC) MiXS](http://gensc.org/mixs/), including information on the "environmental packages"
 - [Linking Environmental Data and Samples Symposium, 29 May - 2 June 2017, Canberra, Australia](https://csiro-enviro-informatics.github.io/environmental-data-symposium-2017/)
+- [Planet Microbe](http://www.planetmicrobe.org/), EarthCube building block project that builds on the EarthCube [ECOGEO RCN project](https://www.earthcube.org/group/ecogeo).
