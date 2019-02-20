@@ -11,6 +11,7 @@ An [EarthCube](https://www.earthcube.org) Integrative Activities project: "Advan
 - Also strongly linked to a [NEON NSF Award (#1550920) led by the same team: EAGER-NEON: Collaborative Research: Formation of a NEON Microbial Metagenomics Data Synthesis Working Group](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1550920)
 
 ## Project resources
+- [Mayorga et al, Cross-Site Soil and Microbial Ecology Cyberinfrastructure for the CZIMEA EarthCube Project (pdf).](https://github.com/BiG-CZ/CZIMEA/blob/master/EMayorga_ECAHM2017_Poster.pdf) Poster presented at the [CUAHSI Conference on Hydroinformatics in Tuscaloosa, AL, July 2017.](https://www.cuahsi.org/community/cuahsi-science-meetings/)
 - [Mayorga et al, Cross-Site Soil and Microbial Ecology Cyberinfrastructure for the CZIMEA Project (pdf).](https://drive.google.com/open?id=0B7vBlSZGFJKHZWlHQzV2YVB0MU0) Poster presented at the [EarthCube All-Hands meeting in Seattle, June 2017.](https://www.earthcube.org/2017-all-hands-meeting)
 - [Cross-CZO sample processing workflow diagram (pdf)](https://drive.google.com/open?id=0B9NLnOiN5c1RUXIzbGNYVTNWMG8)
 - [CZIMEA ODM2 Admin instance (development version)](http://dev-odm2admin.cuahsi.org/CZIMEA/) hosted on the CUAHSI Water Data Center cloud. This is a prototype that is being enhanced and populated with more (meta)data fairly regularly. Read-only access available upon request. A "production" versions [exists](http://odm2admin.cuahsi.org/CZIMEA/) BUT it's not being actively maintained yet, until development is more mature.
