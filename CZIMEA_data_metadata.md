@@ -12,7 +12,7 @@
 
 ## Environmental data and site/stample metadata
 - CZIMEA ODM2 Admin
-  - [Development version](https://dev-odm2admin.cuahsi.org/CZIMEA/). User permission required.
+  - Development version, https://dev-odm2admin.cuahsi.org/CZIMEA/ (User permission required)
   - Live version (coming)
 - Sample metadata (SESAR & IGSN). Examples
   - Southern Sierra CZO: San Joaquin Experimental Reserve (SJER) Core, https://data.geosamples.org/sample/igsn/IERRR00AS
