@@ -1,7 +1,6 @@
 # Listing and links to CZIMEA data and metadata
 
 - [Cross-CZO sample processing workflow diagram (pdf)](https://drive.google.com/open?id=0B9NLnOiN5c1RUXIzbGNYVTNWMG8)
-- Data "types" generated are described elsewhere. That information should be added here
 - [Mayorga et al, Cross-Site Soil and Microbial Ecology Cyberinfrastructure for the CZIMEA EarthCube Project (pdf).](https://github.com/BiG-CZ/CZIMEA/blob/master/EMayorga_ECAHM2017_Poster.pdf) Poster presented at the [CUAHSI Conference on Hydroinformatics in Tuscaloosa, AL, July 2017.](https://www.cuahsi.org/community/cuahsi-science-meetings/)
 - Also relevant: data collected by the CZO's at the same sites
 
@@ -11,8 +10,7 @@
 
 ## Environmental data and site/stample metadata
 - CZIMEA ODM2 Admin
-  - Development version, https://dev-odm2admin.cuahsi.org/CZIMEA/ (User permission required)
-  - Publicly accessible map interface http://dev-odm2admin.cuahsi.org/CZIMEA/mapdata.html 
+  - Development version, https://dev-odm2admin.cuahsi.org/CZIMEA/ User permission is required for full access. A subset of functionality is publicly accessible read-only via the map interface at http://dev-odm2admin.cuahsi.org/CZIMEA/mapdata.html 
   - Live version (coming)
 - Sample metadata ([SESAR](http://www.geosamples.org/) & IGSN). Examples
   - Southern Sierra CZO: San Joaquin Experimental Reserve (SJER) Core, IGSN IERRR00AS: https://data.geosamples.org/sample/igsn/IERRR00AS
