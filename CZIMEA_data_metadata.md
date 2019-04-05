@@ -7,7 +7,7 @@
 - Also relevant: data collected by the CZO's at the same sites
 
 ## Sampling planning and geospatial data
-- MODIS-derived mean annual time series of Enhanced Vegetation Index (EVI), to identify the timing of peak greenness
+- MODIS-derived mean monthly time series of Enhanced Vegetation Index (EVI), to identify the timing of peak greenness. [Here's an example](https://github.com/BiG-CZ/CZIMEA/blob/master/MonthlyMeanMODIS_EVI_SouthernSierraCZOsite.png)
 - Environmental characterization for the site, based on spatial datasets. For now, see [these notes](#4) about this effort. These will be loaded into the CZIMEA ODM2 Admin system listed below
 
 ## Environmental data and site/stample metadata
