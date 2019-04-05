@@ -1,5 +1,4 @@
 # Listing and links to CZIMEA data and metadata
-4/5/2019
 
 - [Cross-CZO sample processing workflow diagram (pdf)](https://drive.google.com/open?id=0B9NLnOiN5c1RUXIzbGNYVTNWMG8)
 - Data "types" generated are described elsewhere. That information should be added here
