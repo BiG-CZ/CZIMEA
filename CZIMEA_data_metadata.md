@@ -16,6 +16,7 @@
 - Sample metadata ([SESAR](http://www.geosamples.org/) & IGSN). Examples
   - Southern Sierra CZO: San Joaquin Experimental Reserve (SJER) Core, IGSN IERRR00AS: https://data.geosamples.org/sample/igsn/IERRR00AS
   - CZO0050 Individual Sample from the above Core, IGSN IERRR00GV: https://data.geosamples.org/sample/igsn/IERRR00GV
+  - List of all CZO sites (not just CZIMEA CZO sites): https://app.geosamples.org/cruise_search.php?group_id=255  "This group includes all CZO samples registered with object type `Site`. This might help with your sample registration so that you can also include a parent sample for the CZO site. You'll need to do some filtering to find the site that you wish to associate with your samples - it might be easiest to do `Items per page > All`, then `Control F` to find the site (and IGSN) that you're looking for."
 - Sampling and analytical methods. Some are available as documents online. A better approach could be explored using systems like https://www.protocols.io
 
 ## Omics data
