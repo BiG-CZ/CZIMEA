@@ -15,8 +15,8 @@
   - Development version, https://dev-odm2admin.cuahsi.org/CZIMEA/ (User permission required)
   - Live version (coming)
 - Sample metadata (SESAR & IGSN). Examples
-  - Southern Sierra CZO: San Joaquin Experimental Reserve (SJER) Core, https://data.geosamples.org/sample/igsn/IERRR00AS
-  - https://data.geosamples.org/sample/igsn/IERRR00GV
+  - Southern Sierra CZO: San Joaquin Experimental Reserve (SJER) Core, IGSN IERRR00AS: https://data.geosamples.org/sample/igsn/IERRR00AS
+  - CZO0050 Individual Sample from the above Core, IGSN IERRR00GV: https://data.geosamples.org/sample/igsn/IERRR00GV
 - Sampling and analytical methods. Some are available as documents online. A better approach could be explored using systems like https://www.protocols.io
 
 ## Omics data
