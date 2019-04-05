@@ -22,5 +22,5 @@
 - C & N concentrations, isotopes, pH
 
 ## Omics data
-- MG-RAST CZIMEA data: http://www.mg-rast.org/mgmain.html?mgpage=search&search=mgp80869 ("merged, quality filtered, and unassembled shotgun sequences are available")
+- MG-RAST CZIMEA data: http://www.mg-rast.org/linkin.cgi?project=mgp80869 ("merged, quality filtered, and unassembled shotgun sequences are available")
 - Other data deposited at IMG and Figshare, as described in a CZIMEA manuscript being submitted for publication
