@@ -8,7 +8,7 @@
 - MODIS-derived mean monthly time series of Enhanced Vegetation Index (EVI), to identify the timing of peak greenness. [Here's an example](https://github.com/BiG-CZ/CZIMEA/blob/master/MonthlyMeanMODIS_EVI_SouthernSierraCZOsite.png)
 - Environmental characterization for the site, based on spatial datasets. For now, see [these notes](#4) about this effort. These will be loaded into the CZIMEA ODM2 Admin system listed below
 
-## Environmental data and site/stample metadata
+## Site/stample metadata, environmental data and non-omics biological data
 - CZIMEA ODM2 Admin
   - Development version, https://dev-odm2admin.cuahsi.org/CZIMEA/ User permission is required for full access. A subset of functionality is publicly accessible read-only via the map interface at http://dev-odm2admin.cuahsi.org/CZIMEA/mapdata.html 
   - Live version (coming)
@@ -19,6 +19,7 @@
 - Sampling and analytical methods. Some are available as documents online. A better approach could be explored using systems like https://www.protocols.io
 - Soil physical properties: field capacity, gravimetric water, texture
 - C & N concentrations, isotopes, pH
+- Biological: microbial mass
 
 ## Omics data
 - MG-RAST CZIMEA data: http://www.mg-rast.org/linkin.cgi?project=mgp80869 ("merged, quality filtered, and unassembled shotgun sequences are available")
